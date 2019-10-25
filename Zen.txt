@@ -1,6 +1,6 @@
 Zen of Python!!!
 1.
-2.
+2.Explicit is better than implicit.
 3.
 4.
 5.
