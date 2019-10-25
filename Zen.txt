@@ -3,7 +3,7 @@ Zen of Python!!!
 2.Explicit is better than implicit.
 3. Simple is better than complex.
 4.
-5.
+5.Flat is better than nested.
 6.Now is better than never.
 7.
 8.Special cases aren't special enough to break the rules.
