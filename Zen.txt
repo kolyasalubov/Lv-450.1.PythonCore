@@ -1,7 +1,7 @@
 Zen of Python!!!
 1.
 2.Explicit is better than implicit.
-3.
+3. Simple is better than complex.
 4.
 5.
 6.Now is better than never.
