@@ -7,3 +7,8 @@ Zen of Python!!!
 6.Now is better than never.
 7.Errors should never pass silently.
 8.Special cases aren't special enough to break the rules.
+9.
+10.
+11.
+12.
+15.There should be one-- and preferably only one --obvious way to do it.
