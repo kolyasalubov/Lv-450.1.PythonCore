@@ -7,7 +7,7 @@ Zen of Python!!!
 6.Now is better than never.
 7.Errors should never pass silently.
 8.Special cases aren't special enough to break the rules.
-9.
+9.If the implementation is hard to explain, it's a bad idea.
 10.
 11.
 12.
