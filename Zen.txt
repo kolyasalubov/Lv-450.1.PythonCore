@@ -7,10 +7,18 @@ Zen of Python!!!
 6.Now is better than never.
 7.Errors should never pass silently.
 8.Special cases aren't special enough to break the rules.
-9.
-10.
+9.Although practicality beats purity.
+10.Errors should never pass silently.
 11.
 12.
+13.
+14.
 15.There should be one-- and preferably only one --obvious way to do it.
-16.Life is good.
+16.
 17.If the implementation is hard to explain, it's a bad idea.
+16.Although never is often better than *right* now.
+17.If the implementation is hard to explain, it's a bad idea.
+18.
+19. Namespaces are one honking great idea -- let's do more of those!
+20. Special cases aren't special enough to break the rules.
+21. Life is good.
