@@ -7,10 +7,12 @@ Zen of Python!!!
 6.Now is better than never.
 7.Errors should never pass silently.
 8.Special cases aren't special enough to break the rules.
-9.
+9.Although practicality beats purity.
 10.
 11.
 12.
+13.
+14.
 15.There should be one-- and preferably only one --obvious way to do it.
 16.Although never is often better than *right* now.
 17.If the implementation is hard to explain, it's a bad idea.
